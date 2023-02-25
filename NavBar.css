@@ -1,0 +1,26 @@
+.header{
+    height: 156px;
+    display: flex;
+    flex-direction: row;
+}
+
+.logo{
+    padding-left: 90px;
+    padding-top: 26.5px;
+    padding-bottom: 26.5px;
+    height: 101.76px;
+    width: 206px;
+}
+.actions{
+    display: flex;
+    flex-direction: row;
+    position: absolute;
+    right: 50px;
+}
+
+.nav{
+    padding-top: 60px;
+    padding-bottom: 60px;
+    padding-left: 114px;
+}
+
